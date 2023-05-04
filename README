@@ -6,13 +6,16 @@ This data set consists of two sessions of resting-state spinal cord fMRI data fr
 For each participant, we share i) a T2-weighted anatomical image, ii) two resting-state fMRI acquisitions of 250 volumes each (acquired with manual and automated slice-specific z-shimming), and iii) associated peripheral physiological data (ECG and respiratory recordings).
 For a detailed description, please see: 
 
-PREPRINT LINK
+https://www.sciencedirect.com/science/article/pii/S1053811923003038?via%3Dihub
 
 Citing this dataset 
 -------- 
 Should you make use of this data set in any publication, please cite the following article: 
 
-PREPRINT LINK
+https://www.sciencedirect.com/science/article/pii/S1053811923003038?via%3Dihub
+
+Kaptan, M., Horn, U., Vannesjo, S. J., Mildner, T., Weiskopf, N., Finsterbusch, J., Brooks, J. C. W., & Eippert, F. (2023). Reliability of resting-state functional connectivity in the human spinal cord: Assessing the impact of distinct noise sources. NeuroImage, 120152. https://doi.org/10.1016/j.neuroimage.2023.120152
+
 
 License 
 ------- 
