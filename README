@@ -2,7 +2,8 @@ README
 
 Description
 -------- 
-This data set consists of two sessions of resting-state spinal cord fMRI data from 48 healthy participants. This data set was collected as a part of a larger methodological project (see https://doi.org/10.1002/hbm.26018). Data from these 48 participants have already been shared (https://openneuro.org/datasets/ds004068/versions/1.0.3), but here we provide previously unavailable resting-state fMRI data associated with the following manuscript: PREPRINT LINK. 
+This data set consists of two sessions of resting-state spinal cord fMRI data from 48 healthy participants. This data set was collected as a part of a larger methodological project (see https://doi.org/10.1002/hbm.26018). Data from these 48 participants have already been shared (https://openneuro.org/datasets/ds004068/versions/1.0.3), but here we provide previously unavailable resting-state fMRI data associated with the following manuscript: https://www.sciencedirect.com/science/article/pii/S1053811923003038?via%3Dihub
+. 
 For each participant, we share i) a T2-weighted anatomical image, ii) two resting-state fMRI acquisitions of 250 volumes each (acquired with manual and automated slice-specific z-shimming), and iii) associated peripheral physiological data (ECG and respiratory recordings).
 For a detailed description, please see: 
 
